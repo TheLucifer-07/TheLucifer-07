@@ -1,6 +1,6 @@
 # Hi, I'm Hemachandu
 
-I'm a second-year computer science student from a Tier-3 college, learning everything on my own. Right now, I'm building a strong foundation in programming and web development. My long-term goal is to crack MTech in AI & Data Science at an IIT and become a Machine Learning Engineer.
+I'm a second-year computer science (AI & Data Science) student from a Tier-3 college, learning everything on my own. Right now, I'm building a strong foundation in programming and web development. My long-term goal is to crack MTech in AI & Data Science at an IIT and become a Machine Learning Engineer.
 
 I haven't started with ML or AI yet—I'm focusing on getting really good at the fundamentals first. But that's where I'm headed.
 
