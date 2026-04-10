@@ -1,50 +1,81 @@
 <div align="center">
-  <h1>👋 Hemachandu Animireddy</h1>
-  <p><b>Full-Stack Developer | Machine Learning Enthusiast | Problem Solver</b></p>
-  <p>Building scalable systems and solving complex problems with code</p>
+  <h1>Hemachandu Animireddy</h1>
+  <h3>Full-Stack Developer | ML Enthusiast | Problem Solver</h3>
+  <p>Crafting scalable systems and solving complex problems with clean, efficient code</p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemachandu-animireddy/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hemachanduanimireddy@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemachandu-animireddy/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemachanduanimireddy@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheLucifer-07)
 </div>
 
 ---
 
-## 🎯 About Me
+## 👋 About Me
 
-Computer Science (AI & Data Science) student and self-taught developer with a passion for building real-world applications. I combine problem-solving skills with modern web technologies to create impactful solutions. Currently focused on **full-stack development** and exploring **machine learning** applications.
-
----
-
-## 💻 Tech Stack
-
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-**Tools & Platforms**  
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+Full-stack developer and Computer Science (AI & Data Science) student with expertise in building production-ready applications. I specialize in combining modern web technologies with problem-solving to deliver impactful, scalable solutions. Strong background in **Data Structures & Algorithms** with hands-on experience in **full-stack development** and **machine learning**.
 
 ---
 
-## 🏆 Problem-Solving & Achievements
+## 🛠️ Tech Stack
 
-- **CodeChef** ⭐⭐⭐ | Rating: 1600 | Data Structures & Algorithms Expert
-- Strong command over **DSA** in Java with consistent practice
-- Building solutions that emphasize code quality and efficiency
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+</td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+</td>
+</tr>
+<tr>
+<td><b>Tools & Platforms</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" alt="Render" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Expertise
+
+- **CodeChef** ⭐⭐⭐ | Rating: 1600 | Advanced problem-solver with expertise in Data Structures & Algorithms
+- Proficient in **Java-based DSA** with consistent competitive programming practice
+- Building production-ready applications with focus on scalability, performance, and code quality
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheLucifer-07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheLucifer-07&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
@@ -52,42 +83,57 @@ Computer Science (AI & Data Science) student and self-taught developer with a pa
 
 ### AQI Predictor — Real-Time Air Quality Intelligence Platform
 
-A comprehensive full-stack application for monitoring and predicting air quality in real-time.
+A comprehensive full-stack application for monitoring and predicting air quality using machine learning. Combines real-time data integration with predictive analytics to provide actionable air quality insights.
 
 **Key Features:**
-- 🤖 AI-powered AQI prediction using **XGBoost**
-- 📊 Interactive dashboards for air quality insights
-- 🔄 Real-time data integration and updates
-- 🎨 Responsive frontend with modern UI
+- 🤖 AI-powered AQI prediction using **XGBoost** machine learning model
+- 📊 Interactive, responsive dashboards for real-time air quality visualization
+- 🔄 Real-time data pipeline with automated updates
+- 🎨 Modern, responsive UI optimized for all devices
 
 **Tech Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-[![XGBoost](https://img.shields.io/badge/XGBoost-FF6B35?style=flat&logoColor=white)](https://xgboost.readthedocs.io)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/XGBoost-FF6B35?style=flat&logoColor=white" alt="XGBoost" />
+
+**Links:**
+[![GitHub Repo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TheLucifer-07/AQI-Predictor)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat&logo=vercel&logoColor=white)](https://aqi-predictor-07.vercel.app)
 
 ---
 
-## 🎯 Current Focus
+## 💡 What I'm Currently Doing
 
-- 🧩 Mastering **Data Structures & Algorithms**
-- ⚛️ Building robust **full-stack applications**
-- 🤖 Exploring **Machine Learning** applications
-- 📈 Developing **scalable real-world systems**
+- 🧩 Mastering **Data Structures & Algorithms** through competitive programming
+- ⚛️ Building robust, scalable **full-stack applications** with modern tech stack
+- 🤖 Exploring **Machine Learning** applications in real-world problems
+- 📈 Developing **production-ready systems** with focus on performance and reliability
 
 ---
 
-## 💬 Let's Connect
+## 📫 Get In Touch
 
-I'm always interested in discussing technology, collaborating on projects, or exploring new opportunities.
+I'm always open to discussing technology, collaborating on interesting projects, or exploring new opportunities.
 
-- **LinkedIn:** [hemachandu-animireddy](https://www.linkedin.com/in/hemachandu-animireddy/)
-- **Email:** [hemachanduanimireddy@gmail.com](mailto:hemachanduanimireddy@gmail.com)
-- **GitHub:** [TheLucifer-07](https://github.com/TheLucifer-07)
+<div align="center">
+  <a href="https://www.linkedin.com/in/hemachandu-animireddy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hemachanduanimireddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/TheLucifer-07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://portfolio-3005.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 ---
 
 <div align="center">
-  <p><i>Constantly learning, building, and improving. Currently in my building phase — creating projects that matter.</i></p>
-  <p>⭐ If you find my work interesting, consider leaving a star!</p>
+  <p><i>"Code is poetry written in logic. I'm constantly learning to write better verses."</i></p>
+  <p><b>⭐ If my work interests you, feel free to star my repositories!</b></p>
 </div>
