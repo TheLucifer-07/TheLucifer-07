@@ -1,191 +1,109 @@
-::: {align="center"}
-``` text
-                 .        *              .
-        *                 .-""""-.
-                 .       /  .--.  \          *
-                        |  /    \  |
-             .          | |  /\  | |
-                        |_| |  | |_|
-                           \ \/ /
-                      _____\__/_____
-                    .'   _      _   '.
-                   /____/ \____/ \____\
-                  /  _   THELUCIFER   _ \
-                 /__/ \____________/ \__\
+<!-- THELUCIFER-07 | Pure text-art GitHub profile. -->
+<!-- This is actual monospaced character art, not an embedded image. -->
 
-              H E M A C H A N D U
-                A N I M I R E D D Y
-
-             DEVELOPER  /  PROBLEM SOLVER
-                       /  BUILDER
+```text
+====================================================================================================
+                               T H E L U C I F E R - 0 7                                            
+====================================================================================================
+                                                      __________________________________________    
+           =:        .::-++####+=-.                  /                                          \   
+    .            ........ :=+*@%##%%*:              |       T H E L U C I F E R - 0 7          |    
+   :+         ...         ....--=*+*#@%-            |                                          |    
+                               .-*##++@@%           |       H E M A C H A N D U                |    
+                :=+-----+ -=.    :=-=++#@@.   -     |         A N I M I R E D D Y              |    
+              :+**-    :-:-=@-   .::=*++#@@         |                                          |    
+   ..     . +%#:.-   .-:... =*+    ..-*==#@%        |   DEVELOPER / PROBLEM SOLVER / BUILDER   |    
+       .: +#+-   ....--++:+=.+#:     :=-:*%@.       |                                          |    
+        -*#.  .:.:   :%@@@@@@#-     ..::.:+@=       |   Full-stack development                 |    
+ ..   ..*@  . :     .-@@@@@@@@%       . .:=@-       |   Backend systems                         |   
+ -:-  :#*    .   =%*@*@@@@@@%%%*      == =++        |   Applied artificial intelligence         |   
+ - =  .%+.        ..:#::-.    .:      .:. -:        |                                          |    
+ : -.  .=+.--:::.   -@@=:*##-.           .-    .    |   Curious by nature.                      |   
+.-.:   *#*#*:-+++*+-+@@@#@@@@           .:     -    |   Serious about the craft.                |   
+ ::..=*=.:+==++=+***+=#@#@@@#          .      :=    |   Always building.                        |   
+  : %*.-*+-   . .-=-:-:%+-%* .+:-+:       --  #-     \________________________________________/     
+   .#**:   -#*+*%%%#+.:.++-:-+#%.=@=      ==  #-                                                    
+  -@*:   =+@*#%@@@@@@**+ .+:  =*# ##      ---=+-                                                    
+  :+   =#=@:=@%%#*#*#%.++  = .+=::=.+-   .  -.-:                                                    
+.=..-.=* %- %%=---:=#*+ %: +=:.   : .=+     . ..                                                    
+ --. -= %* :@-:. .*@@@%. *.--:. : == #@+                                                            
+  :: ::%@  *-   =%@*++%%= :::= : .-# =*-@.                                                          
+   : :+:+  -- -=*%-.:=*%#:-#== :  .*-.*.#***+                                                       
+   . =. =.  -*+ %#=+=:  .+*+*#%#*+#%#%=+-   +@:                                                     
+ :::-=   + .+- -=  :: .=+.   :####+. :* ==-==#-+                                                    
+  . .     :-     -====-=-  ::-+#+:    #+=+*: #%*                                                    
+----------------------------------------------------------------------------------------------------
+       .        .             |          .              .         |       .                         
+   _   _   _    |     _      _|_     _      _     _     |    _   _                                  
+  | |_| |_| |   |    | |    |___|   | |    | |   | |    |   | |_| |                                 
+  |  _   _  |___|____| |____|   |___| |____| |___| |____|___|  _  |                                 
+__|_| |_| |_|_______________________________ __________________|_|_|_____                           
+                 .----.                 .----------------.                                          
+       (         |    |       ______    |   <  /  >      |                                          
+      ) )        |____|      / ____ \   |________________|                                          
+     ( (          ||        /_/    \_\      ||||||                                                  
+  ____||__________||________________________||||||________________________                          
+----------------------------------------------------------------------------------------------------
++-----------------------------------------------+ +-----------------------------------------------+ 
+|                   [ whoami ]                  | |                 [ philosophy ]                | 
+|                                               | |                                               | 
+| A developer who loves turning ideas into    | | LEARN DEEPLY.                               |     
+| useful, scalable and meaningful software.   | | BUILD THOUGHTFULLY.                         |     
+| I enjoy building web applications,          | | SOLVE MEANINGFULLY.                         |     
+| exploring applied AI, and understanding how | | Understand the problem. Respect the         |     
+| real systems work under the hood.           | | fundamentals. Make the result better.       |     
+| Curious by nature, consistent by practice,  | |                                               |   
+| and driven to keep building, learning and   | +-----------------------------------------------+   
+| levelling up.                               |                                                     
+|                                               |                                                   
++-----------------------------------------------+                                                   
+----------------------------------------------------------------------------------------------------
++--------------------------------------------------------------------------------------------------+
+| [ > tech_stack --view ]                                                                          |
++--------------------------------------------------------------------------------------------------+
+|  JAVA       JAVASCRIPT      PYTHON       SQL       REACT       MONGODB       POSTGRESQL          |
+|   __          [JS]          _/\_       ______       .-.          ____          ______          |  
+|  /__\                      (____)     /_____/      (   )        / __ \        / _____|         |  
+|  \__/       NODE.JS      SPRING BOOT   EXPRESS    HTML / CSS    GIT / GITHUB   GEMINI API       | 
++--------------------------------------------------------------------------------------------------+
+----------------------------------------------------------------------------------------------------
++-----------------------------------------------+ +-----------------------------------------------+ 
+|                [ focus --now ]                | |                 [ a_bit_more ]                | 
+|                                               | |                                               | 
+| [ ] Strengthening backend engineering       | | Based in : Visakhapatnam, India             |     
+| [ ] Deepening database and SQL skills       | | Learning : Continuously                     |     
+| [ ] Improving problem-solving (DSA)         | | Mode : Build > Learn > Repeat               |     
+| [ ] Exploring applied AI, LLMs and RAG      | | Community : Matrix Club                     |     
+| [ ] Building reliable software              | | Status : Open to collaborate                |     
+|                                               | |                                               | 
++-----------------------------------------------+ +-----------------------------------------------+ 
+----------------------------------------------------------------------------------------------------
+       /\                         .                         /\                                      
+      /  \          .            / \          .            /  \                                     
+     /    \       _/ \_         /   \        _/ \_        /    \                                    
+    /      \_____/     \_______/     \______/     \______/      \                                   
+___/_______________________________________________________________\______                          
+       ~~~~~~~~     ~~~~~~~~~~~~~     ~~~~~~~~~~~~~     ~~~~~~~~~~~~~                               
+   ~~~~~~~~~~~~~~~~      .-''''-.       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                               
+ ~~~~~~~~~~~~~~~~~      /  .--.  \       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+~~~~~~~~~~~~~~~~~~~~~~~|  (____)  |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                            
+  ~~~~~~~~~~~~~~~~~~~~~ \        /  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                             
+     ~~~~~~~~~~~~~~~~~~~ '------' ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                  
+====================================================================================================
+                                     [ CONNECT ]                                                    
+====================================================================================================
+  GITHUB     github.com/TheLucifer-07                                                               
+  LINKEDIN   linkedin.com/in/hemachandu-animireddy                                                  
+  PORTFOLIO  portfolio-3005.vercel.app                                                              
+  EMAIL      hemachanduanimireddy@gmail.com                                                         
+====================================================================================================
+                            THINK CLEARLY. ENGINEER DEEPLY.                                         
+                                BUILD MEANINGFULLY.                                                 
+====================================================================================================
 ```
 
-# `THELUCIFER-07`
+<div align="center">
 
-**Developer · Problem Solver · Builder**
+[GitHub](https://github.com/TheLucifer-07) · [LinkedIn](https://www.linkedin.com/in/hemachandu-animireddy/) · [Portfolio](https://portfolio-3005.vercel.app) · [Email](mailto:hemachanduanimireddy@gmail.com)
 
-*Turning ideas into useful software. Understanding systems. Building
-with purpose.*
-
-[GitHub](https://github.com/TheLucifer-07) ·
-[LinkedIn](https://www.linkedin.com/in/hemachandu-animireddy/) ·
-[Portfolio](https://portfolio-3005.vercel.app)
-:::
-
-------------------------------------------------------------------------
-
-## `> whoami`
-
-I'm Hemachandu --- a developer who enjoys turning ideas into useful,
-scalable and meaningful software.
-
-I like working across the stack: crafting interfaces, building backend
-services, designing APIs, and understanding how data moves through an
-application. I'm also curious about applied AI and how intelligent
-systems can solve real problems.
-
-I believe becoming a better developer is about more than learning
-frameworks. It's about understanding the fundamentals, asking better
-questions, and improving the way we think and build.
-
-## `> philosophy`
-
-``` text
-          .--------------------------------.
-          |                                |
-          |          LEARN DEEPLY          |
-          |                                |
-          |       BUILD THOUGHTFULLY       |
-          |                                |
-          |       SOLVE MEANINGFULLY       |
-          |                                |
-          '--------------------------------'
-```
-
-Good engineering begins with curiosity.
-
-Understand the problem before reaching for a solution. Keep the
-implementation clear. Respect the details. Make things better with every
-iteration.
-
-## `> tech_stack --view`
-
-``` text
-   +------------------------------------------------------+
-   |                  ENGINEERING TOOLKIT                 |
-   +------------------------------------------------------+
-   |                                                      |
-   |   LANGUAGES                                          |
-   |      Java   JavaScript   Python   SQL                |
-   |                                                      |
-   |   FRONTEND                                           |
-   |      React   HTML   CSS   Tailwind CSS   Vite        |
-   |                                                      |
-   |   BACKEND                                            |
-   |      Node.js   Express   Spring Boot   REST APIs     |
-   |                                                      |
-   |   DATABASES                                          |
-   |      MongoDB   PostgreSQL   Supabase                 |
-   |                                                      |
-   |   AI                                                  |
-   |      Google Gemini API                               |
-   |                                                      |
-   |   TOOLS                                               |
-   |      Git   GitHub   VS Code                          |
-   |                                                      |
-   +------------------------------------------------------+
-```
-
-## `> currently --focus`
-
-``` text
-       __________________________________________
-      /                                          \
-     |   [>] Strengthening backend engineering    |
-     |   [>] Deepening SQL and database skills    |
-     |   [>] Practising DSA and problem solving    |
-     |   [>] Exploring system design              |
-     |   [>] Learning applied AI, LLMs and RAG    |
-     |   [>] Building reliable software           |
-      \__________________________________________/
-```
-
-## `> beyond_the_code`
-
-``` text
-              ______________________
-             |                      |
-             |       .------.       |
-             |       |      |       |
-             |       |  <>  |       |
-             |       |______|       |
-             |      /|      |\      |
-             |     /_|______|_\     |
-             |       /____\         |
-             |______________________|
-                  /          \
-                 /____________\
-```
-
-I enjoy learning with other developers, sharing knowledge, and helping
-people get started with building software.
-
-Currently, I lead the Full Stack Development team at Matrix Club, where
-I help plan learning activities, guide juniors, and coordinate
-development work.
-
-Outside development, I enjoy competitive programming and exploring new
-ideas in technology.
-
-## `> a_bit_more`
-
-``` text
-    LOCATION      : Visakhapatnam, India
-    EDUCATION     : AI & Data Science
-    COMMUNITY     : Matrix Club
-    INTERESTS     : Software Engineering
-                    Backend Systems
-                    Applied AI
-                    Problem Solving
-    MINDSET       : BUILD > LEARN > REPEAT
-    STATUS        : ALWAYS EXPLORING
-```
-
-## `> connect`
-
-``` text
-       +-------------------------------------------+
-       |           OPEN CHANNELS                   |
-       +-------------------------------------------+
-       |                                           |
-       |  GITHUB    github.com/TheLucifer-07       |
-       |  LINKEDIN  hemachandu-animireddy           |
-       |  PORTFOLIO portfolio-3005.vercel.app      |
-       |  EMAIL     hemachanduanimireddy@gmail.com |
-       |                                           |
-       +-------------------------------------------+
-```
-
--   [GitHub](https://github.com/TheLucifer-07)
--   [LinkedIn](https://www.linkedin.com/in/hemachandu-animireddy/)
--   [Portfolio](https://portfolio-3005.vercel.app)
--   [Email](mailto:hemachanduanimireddy@gmail.com)
-
-::: {align="center"}
-``` text
-             /\                         /\
-            /  \       .       .        /  \
-           / /\ \          _           / /\ \
-          / /  \ \       .' '.         / /  \ \
-         /_/    \_\_____/     \________/_/    \_\
-
-                 KEEP BUILDING.
-                 KEEP EXPLORING.
-
-             THINK CLEARLY.
-             ENGINEER DEEPLY.
-             BUILD MEANINGFULLY.
-```
-
-**`END OF TRANSMISSION // THELUCIFER-07`**
-:::
+</div>
