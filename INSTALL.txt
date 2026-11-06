@@ -1,1 +1,17 @@
-THELUCIFER-07 GitHub Profile README\n===================================\n\n1. Extract this ZIP into your existing profile repository.\n2. Keep README.md and the assets/ directory together.\n3. Commit and push both README.md and assets/thelucifer-profile.png.\n\nThe README uses a relative image path: ./assets/thelucifer-profile.png\nThe supplied reference artwork is preserved as the profile banner.\n
+THELUCIFER-07 GitHub Profile README
+===================================
+
+README.md contains the profile artwork as GitHub-compatible ASCII text, so it
+does not depend on a banner image or an external icon service. The editable
+ASCII source artwork is stored in assets/ascii/.
+
+To publish this profile, place these files in the repository whose name matches
+the GitHub account, then commit and push them through your usual workflow.
+
+Run the local layout checks with:
+
+    python3 scripts/validate_readme.py
+
+To also check the links over the network, run:
+
+    python3 scripts/validate_readme.py --check-links

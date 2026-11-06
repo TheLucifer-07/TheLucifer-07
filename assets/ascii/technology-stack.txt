@@ -1,0 +1,14 @@
++---------+-------------+
+| TYPE    | TECH        |
++---------+-------------+
+| LANG    | Java        |
+| LANG    | JavaScript  |
+| LANG    | Python      |
+| QUERY   | SQL         |
+| UI      | React       |
+| DATA    | MongoDB     |
+| DATA    | PostgreSQL  |
+| BACKEND | Spring Boot |
+| RUNTIME | Node.js     |
+| OPS     | Docker      |
++---------+-------------+
