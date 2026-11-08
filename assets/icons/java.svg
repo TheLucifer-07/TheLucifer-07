@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Java</title>
+  <rect width="64" height="64" rx="8" fill="#000000"/>
+  <g stroke="#f2f2f2" stroke-width="3" stroke-linecap="round">
+    <path d="M28 8c-6 5 7 7 0 13M39 5c-7 6 8 9 0 15M17 42h29c-1 7-5 10-14 10s-14-3-15-10Z"/>
+    <path d="M46 45c8 0 9 7 1 9M15 47c-7 1-6 6 2 7M21 58c8 3 22 3 30-1M25 25c-5 4 7 5 0 9M31 35c-8 4-2 7 7 5"/>
+  </g>
+</svg>

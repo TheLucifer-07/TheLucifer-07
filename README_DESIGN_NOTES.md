@@ -2,28 +2,37 @@
 
 ## Visual direction
 
-The supplied monochrome reference establishes the visual language: a framed identity treatment, moonlit developer scene, distant skyline, desk objects, editorial panels, landscape divider, and compact connection footer. The README rebuilds those cues as original line art and readable text. It uses white space, dots, dashes, and geometric borders to suggest silver/gray tonal range without depending on a background color.
+The profile carries forward the reference's monochrome terminal identity: a side-facing developer at a laptop, moonlight, a distant city, framed identity text, compact command-style section headings, and a mountain-and-water footer. The composition uses a black art surface, white and gray marks, restrained technical framing, and whitespace around the subject.
 
-## Typography and hero composition
+The hero artwork is drawn from original Canvas2D scene primitives and passed through the local cell renderer. The figure, skyline, workstation, moon, and landscape are original shapes made for this profile; the supplied image guided the mood and composition rather than being copied into the output.
 
-The hero pairs a moonlit developer silhouette with a custom 3x5 ASCII title treatment for `THE LUCIFER 07`, full name, and role. A generated FIGlet title, a built-in Python 5x5 title, and a framed CLI logo were compared. The paired 60-column version was chosen because it keeps the character scene and identity visible together on a narrow GitHub page. The portrait uses a headphone band and earcup framing, expressive face, and shoulders; the accompanying skyline, laptop, coffee cup, and cat extend the scene below it.
+## Content and layout
 
-The title and artwork remain plain ASCII. There are no ANSI color sequences, custom fonts, CSS, or JavaScript. Alternative title treatments were inspected locally and omitted from the published assets; the README keeps only the selected title treatment.
+The profile uses standard Markdown headings, paragraphs, task-list syntax, local images, and links. Sections follow the reference order: identity, introduction, philosophy, technology, focus, personal details, landscape, and connections. The ten technologies are labels paired with local monochrome PNG marks so the text remains readable and the icons do not depend on a remote service.
 
-## ASCII generation methods
+The earlier email link and closing engineering line remain present. The technologies are listed without proficiency claims or statistics. The intro and focus copy follow the user's supplied wording.
 
-Image conversion experiments used two independent converters on crops of the supplied reference. Their 52-column results lost the portrait silhouette or became visually noisy, so they were not used as final art. The final hero and supporting scenes are original hand-composed ASCII, refined after visual inspection. The technology table, section-frame templates, and banner alternatives also went through their respective installed skill utilities. `assets/ascii/` keeps the source scenes and data layouts editable; the README embeds the selected artwork directly for GitHub reliability.
+## ASCII rendering workflow
 
-## Section layout
+The standalone Node.js renderer uses Canvas2D through @napi-rs/canvas. It loads a local image, fits it to the target canvas, samples average cell color and brightness, applies adjustments, then draws the selected character or geometric primitive. Its styles include characters, dots, Braille, mosaic, pixel, cross, diamond, mixed, lines, diagonal, rings, stars, hexagons, triangles, and halfblocks.
 
-The README follows the reference's order: hero, `whoami`, philosophy, technology, current focus, desk and status, landscape, then connections. Compact panels use `+ - |` borders. The technology list is a two-column text table. Sections below the hero are stacked vertically, avoiding a wide desktop-only grid. The portfolio, GitHub, LinkedIn, and email are functional Markdown links.
+Controls cover cell size, density, coverage, brightness, contrast, saturation, grayscale, inversion, edge emphasis, background opacity, blur, tint, bloom, vignette, chromatic aberration, film grain, scanlines, glitch, and lighting. Grain, glitch, and generated scenes use a fixed seed by default for repeatable output. The profile uses static PNGs; no animation is needed for this composition.
+
+The requested 21st.dev community page was unavailable to the browser reader. Its public guides describe the general image-to-character workflow, short character ramps, style and intensity controls, color/effect controls, and static exports. The renderer here is independently implemented and does not use their source code:
+
+- [21st.dev: Introducing ASCII Art](https://docs.21st.dev/blog/introducing-ascii-art)
+- [21st.dev: ASCII Art in React](https://docs.21st.dev/blog/react-ascii-art-components)
 
 ## GitHub compatibility
 
-The profile uses standard Markdown headings, blockquotes, links, and fenced `<pre>`-style text blocks. It has no local image dependency, external badge/icon service, HTML layout, animation, CSS, JavaScript, or terminal escape sequence. All final code blocks are limited to 60 characters per line so they fit the most constrained requested viewport.
+GitHub README rendering does not run this JavaScript. The generation script writes static PNG assets referenced by repository-relative Markdown paths. The README contains no JavaScript, custom CSS, animation, external image hosts, or raw HTML layout.
 
-## Review passes
+The README cannot set the page's overall background color through standard Markdown. The black terminal treatment therefore appears in the hero, footer, and compact icons, while prose follows the viewer's GitHub theme. This keeps text selectable and naturally reflowing on narrow screens.
 
-1. **Composition:** Compared the reference's portrait/title balance with the generated title candidates. Kept the portrait and identity in a paired 60-column masthead and moved the remaining sections into a vertical sequence.
-2. **Artwork:** Inspected rendered previews of the hand-composed hero, skyline/workspace, desk, and landscape. Rejected converter noise and dense logo candidates; refined the portrait frame and the hero divider alignment.
-3. **Engineering:** Checked the Markdown structure, code fences, line widths, ASCII-only content, links, section completeness, and GitHub-safe content. The repeatable checks and their results are in `README_VALIDATION_REPORT.md`.
+## Icon provenance
+
+Java and SQL use original minimal vector symbols. The remaining technology marks come from Simple Icons v16.37.0, stored locally as SVG sources and rasterized to PNG. The icon source note links to Simple Icons' license and trademark disclaimer.
+
+## Regeneration
+
+See ARTWORK.md for installation, default asset generation, image conversion, and renderer controls. The committed PNGs are generated by npm run art.

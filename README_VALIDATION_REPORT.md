@@ -1,23 +1,33 @@
 # README Validation Report
 
-**Run date:** 2026-11-06
+**Run date:** 2026-11-08
 
-**Command:** `python3 scripts/validate_readme.py --check-links`
+## Local checks
 
-## Results
+- **Profile structure:** passed. Required sections, task checklist, link destinations, and terminal details are present.
+- **GitHub-safe Markdown:** passed. The README uses headings, paragraphs, task-list items, blockquotes, fenced text, relative PNG images, and links. It has no raw HTML, script, CSS, animation, fixed table layout, or external image host.
+- **Local images:** passed. All 12 README image paths resolve. Hero is 1280 × 470; footer is 1280 × 245. Both are PNGs under 500 KB.
+- **Technology icons:** passed. All ten SVG sources loaded through the Canvas2D image loader and produced local 24 × 24 PNGs. The README embeds those PNGs.
+- **Renderer styles:** passed. Characters, dots, Braille, mosaic, pixel, cross, diamond, mixed, lines, diagonal, rings, stars, hexagons, triangles, and halfblocks all rendered from the supplied reference image.
+- **Image input:** passed. The command-line conversion path rendered the supplied image as a 320 × 240 PNG.
+- **Input decoding:** passed for PNG, JPEG, WebP, and local SVG sources through the image loader.
+- **Clean install:** passed. npm ci installed the pinned Canvas2D dependency and reported no vulnerabilities.
+- **Error handling:** passed. Missing and invalid image paths return readable errors and a nonzero exit code.
+- **Determinism:** passed. SHA-256 hashes for the hero, footer, and icon PNGs were identical before and after a second generation.
+- **Syntax:** passed. Both JavaScript modules and the Python README validator passed their syntax checks.
+- **Asset size:** passed. The hero is 169,998 bytes, the footer is 53,331 bytes, and the ten icons total under 10 KB.
 
-- **Responsive widths:** passed at 80, 75, 70, and 60 columns. The README has 10 fenced artwork blocks; the widest line is 60 columns.
-- **Frames:** all detected framed panels and table borders align at their vertical boundaries and share consistent widths.
-- **Markdown and content:** fences are balanced, all seven requested sections are present and nonempty, Markdown links are recognized, and no raw HTML, script, or style markup is used.
-- **Artwork safety:** code blocks contain ASCII characters only, with no tabs, trailing whitespace, or ANSI escape sequences.
-- **Spacing:** no runs of three or more blank prose lines; code block line wrapping is not needed within the tested widths.
-- **GitHub link:** `https://github.com/TheLucifer-07` returned HTTP 200.
-- **Portfolio link:** `https://portfolio-3005.vercel.app` returned HTTP 200.
-- **LinkedIn link:** the supplied URL is present, but LinkedIn returned HTTP 999 to automated requests, so reachability could not be confirmed.
-- **Email link:** the `mailto:` address has valid syntax. Email delivery cannot be tested over HTTP.
+## Link checks
 
-## Visual review
+- **Portfolio:** HTTP 200. It also matches the blog URL on the public GitHub account.
+- **GitHub profile:** the page endpoint returned HTTP 504 to the automated probe. The GitHub public API returned HTTP 200 and confirmed the account handle, so the profile URL is marked unverified rather than broken.
+- **LinkedIn:** automated requests were blocked with HTTP 999/405. The supplied profile URL is present and marked unverified.
+- **Email:** mailto syntax is valid; delivery cannot be checked over HTTP.
 
-The supplied reference image and generated artwork previews were inspected. A final monospaced preview of the README was also rendered and inspected to review the title, framed panels, and vertical section flow. A live GitHub browser preview was unavailable in this environment, so this report makes no claim about a captured GitHub-rendered screenshot.
+The public GitHub API currently lists the account name as “Hema Chandu Animireddy” and location as “Vizag.” The README keeps the user-requested display name “Hemachandu Animireddy” and location “Visakhapatnam, India.”
 
-The validator treats access-blocked and non-HTTP links as **unverified**, not as confirmed broken links. Re-run the command above to repeat the local checks and link probe.
+## Visual review and limits
+
+The hero, footer, and icon sheet were inspected as images. The content uses flowing Markdown instead of a fixed-width table, so labels and links can wrap on narrow screens. A live GitHub-rendered screenshot was not available because the profile page endpoint returned HTTP 504 while the changes remain local; the validator checks the supported Markdown patterns and every referenced asset.
+
+GitHub Markdown cannot set the entire page background through standard syntax. Black is applied to the hero, footer, and icon tiles; prose follows the viewer’s GitHub theme.

@@ -1,0 +1,17 @@
+{
+  "name": "thelucifer-07-profile-art",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static monochrome artwork for the THE LUCIFER 07 GitHub profile README",
+  "type": "module",
+  "scripts": {
+    "art": "node scripts/generate-art.mjs",
+    "validate:readme": "python3 scripts/validate_readme.py --check-links"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "1.1.0"
+  }
+}
