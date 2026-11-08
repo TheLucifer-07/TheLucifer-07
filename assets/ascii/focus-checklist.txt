@@ -1,5 +1,0 @@
-[ ] Strengthening system design
-[ ] Deepening backend and database skills
-[ ] Improving problem-solving (DSA)
-[ ] Exploring Applied AI (LLMs, RAG, Agents)
-[ ] Building production-ready applications
