@@ -9,11 +9,11 @@
 <p align="center">Building meaningful software through thoughtful engineering, continuous exploration, and a passion for solving real-world problems.</p>
 
 <p align="center">
-  <a href="https://portfolio-3005.vercel.app">Explore my portfolio</a>
+  <a href="https://portfolio-3005.vercel.app">Portfolio</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/TheLucifer-07">Browse my work</a>
+  <a href="https://github.com/TheLucifer-07">GitHub</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/hemachandu-animireddy">Connect on LinkedIn</a>
+  <a href="https://www.linkedin.com/in/hemachandu-animireddy">LinkedIn</a>
 </p>
 
 ---
